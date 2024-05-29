@@ -2,8 +2,14 @@
 
 This is a straightforward ASCII spinning donut implemented in `C`. Inspired by [Andy Sloane (a1k0n)](https://www.a1k0n.net/about.html)'s original `donut.c` from 2006. While it requires some understanding of mathematics, it remains a compact and relatively easy project, especially when following a guide. There are two available versions: one utilizing a math library and another without it.
 
-- [Understanding the functionality of donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)
-- [Optimizing donut.c without a math library](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
+## REFERENCES
+
+| Link                                                                                                     | Source    |
+| :------------------------------------------------------------------------------------------------------- | :-------- |
+| [Understanding the functionality of donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)           | Website   |
+| [Optimizing donut.c without a math library](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)      | Website   |
+
+## DONUT
 
 ```
              k;double sin()
@@ -28,3 +34,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 ```
+
+## LICENSE
+
+This work is published under the terms of <a href="https://github.com/jotavare/spinning-ascii-donut-c/blob/main/LICENSE">Unlicense</a>.
