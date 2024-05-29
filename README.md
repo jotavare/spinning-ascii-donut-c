@@ -1,6 +1,6 @@
 ## ABOUT
 
-This is a straightforward ASCII spinning donut implemented in `C`. Inspired by [Andy Sloane (a1k0n)](https://www.a1k0n.net/about.html)'s original `donut.c` from 2006. While it requires some understanding of mathematics, it remains a compact and relatively easy project, especially when following a guide. There are two available versions: one utilizing a math library and another without it.
+This is a straightforward ASCII spinning donut implemented in `C`. Inspired by [Andy Sloane (a1k0n)](https://www.a1k0n.net/about.html) original `donut.c` from 2006. While it requires some understanding of mathematics, it remains a compact and relatively easy project, especially when following a guide. There are two available versions: one utilizing a math library and another without it.
 
 ## REFERENCES
 
