@@ -37,4 +37,4 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ## LICENSE
 
-This work is published under the terms of <a href="https://github.com/jotavare/spinning-ascii-donut-c/blob/main/LICENSE">Unlicense</a>.
+This work is published under the terms of <a href="https://github.com/jotavare/spinning-ascii-donut-c/blob/main/LICENSE">MIT License</a>.
