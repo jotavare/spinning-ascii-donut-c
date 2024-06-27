@@ -35,6 +35,10 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
              ..,--------,*/
 ```
 
+## CONTRIBUTING
+
+If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+
 ## LICENSE
 
-This work is published under the terms of <a href="https://github.com/jotavare/spinning-ascii-donut-c/blob/main/LICENSE">MIT License</a>.
+This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/spinning-ascii-donut-c/blob/main/LICENSE) file.
